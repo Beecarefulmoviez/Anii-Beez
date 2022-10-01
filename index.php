@@ -3,7 +3,8 @@ require('./php/info.php');
 ?>
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3912564197858187"
+     crossorigin="anonymous"></script>
 <head>
     <title>Ani-Beez Official product of Beecareful #1 Watch High Quality Anime Online Without Ads</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
